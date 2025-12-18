@@ -1,1 +1,1 @@
-demo self ci cd with git gub action ok test!
+demo self ci cd with git gub action ok test!!
